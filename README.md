@@ -16,5 +16,5 @@ Now, anytime
 ## Why
 Coz, its important have these nowadays
 
-##How
+## How
 u asked urself
